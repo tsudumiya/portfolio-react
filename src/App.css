@@ -690,7 +690,7 @@ nav.navbar .navbar-toggler span:nth-of-type(3) {
     font-size: 18px;
     letter-spacing: 0.8px;
     line-height: 1.5em;
-    margin: 0 auto 40px auto;
+    margin: 20px auto 40px auto;
     text-align: center;
 }
 .contact form input {
